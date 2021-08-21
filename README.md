@@ -10,7 +10,7 @@ The Brest cancer Wiscosin(diagnostic) dataset is made of contains Class distribu
 
 The main work here is to classify whether a tumor is benign or malignant.
 
-he following topics are covered in this tutorial:
+Here following topics are covered in this tutorial:
 
 - Downloading a real-world dataset
 - Preparing a dataset for training
